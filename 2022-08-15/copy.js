@@ -3,11 +3,11 @@ const user = {
     firstName: 'John',
     lastName: 'Doe',
   },
-  age: 23
-}
+  age: 23,
+};
 
 // const user2 = user;
-const user2 = {...user}; // shallow copy
+const user2 = { ...user }; // shallow copy
 console.log(user);
 console.log(user2);
 

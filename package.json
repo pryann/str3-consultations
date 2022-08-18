@@ -1,0 +1,25 @@
+{
+  "name": "str3-consultations",
+  "version": "1.0.0",
+  "description": "## 2022.08.15 - [tictactoe help](./2022-08-15/tictactoe) - [deep and shallow copy](./2022-08-15/copy.js)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pryann/str3-consultations.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pryann/str3-consultations/issues"
+  },
+  "homepage": "https://github.com/pryann/str3-consultations#readme",
+  "devDependencies": {
+    "eslint": "^8.22.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
